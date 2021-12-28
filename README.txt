@@ -27,4 +27,3 @@ then you can run the server using "python manage.py runserver".
 GIT: https://github.com/york111q/image-sharer.git
 
 DOCKER CONTAINER: docker pull york111/imagesharer:latest
-DOCKER IMAGE: https://drive.google.com/file/d/1w-K_g_t7IQh5_AXSP-xrSAZVv3EpIqd2/view?usp=sharing
